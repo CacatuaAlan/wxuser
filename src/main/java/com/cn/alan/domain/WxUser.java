@@ -6,6 +6,12 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.io.Serializable;
 import java.util.Date;
 
+/**
+ * @Annotated: do实体
+ * @Author: CacatuaAlan
+ * @Date: 2020/7/26
+ */
+
 public class WxUser implements Serializable {
     // 微信号，主键
     private String wx_id;

@@ -9,6 +9,12 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+ * @Annotated: 持久层
+ * @Author: CacatuaAlan
+ * @Date: 2020/7/26
+ */
+
 @Repository("wxUserDao")
 public interface IWxUserDao {
 

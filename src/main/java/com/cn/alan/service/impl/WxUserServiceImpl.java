@@ -8,6 +8,12 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/**
+ * @Annotated: 业务层
+ * @Author: CacatuaAlan
+ * @Date: 2020/7/26
+ */
+
 @Service("wxUserService")
 public class WxUserServiceImpl implements IWxUserService {
 
